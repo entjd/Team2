@@ -15,7 +15,7 @@ public class HelloWorld {
 		System.out.println("password : ");
 		String pw = sc.nextLine();
 		
-		System.out.println("id" + st + "pw" + pw);
+		System.out.println("id : " + st + "pw : " + pw);
 	}
 
 }
