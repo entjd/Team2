@@ -7,6 +7,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		System.out.println("team2");
+		System.out.println("Hi");
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("id :");
@@ -18,6 +19,7 @@ public class HelloWorld {
 		System.out.println("id : " + st + "pw : " + pw);
 		
 		System.out.println("happy?");
+		
 	}
 
 }
