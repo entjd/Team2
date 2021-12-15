@@ -15,5 +15,7 @@ public class HelloWorld2 {
 	}
 	
 	public void st() {}
+	
+	public void st1() {}
 
 }
