@@ -14,6 +14,7 @@ public class HelloWorld2 {
 		
 		
 		System.out.println("hhh");
+		System.out.println("과제하기 싫다");
 		
 	}
 	
